@@ -1,8 +1,5 @@
-//
-// Created by badin on 30/11/2021.
-//
+#include "lib.h"
 
-#include "Lib.h"
 
 bool conversione(char &a){
     bool t=true;
@@ -24,5 +21,3 @@ bool conversione(char &a){
     return t;
 
 }
-
-
